@@ -38,7 +38,7 @@ const Index = () => {
         </div>
         <div className="relative container mx-auto px-4 py-16 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-            NutriTrack
+            Diet Tracker Website
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Track your meals, monitor your macros, and achieve your nutrition goals
